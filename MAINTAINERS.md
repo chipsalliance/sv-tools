@@ -4,5 +4,5 @@ The current SV-tools Maintainers and Technical Steering Committee (TSC) Members 
 | -- | -- | -- | -- |
 | Krzysztof Bieganski | `kbieganski` | Antmicro | SV tests |
 | Karol Gugala | `kgugala` | Antmicro | Synlig |
-| ? | ? | Google | RISC-V DV |
+| TBD | TBD | Google | RISC-V DV |
 | Henner Zeller | `hzeller` | Google | Verible |

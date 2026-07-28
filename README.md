@@ -1,5 +1,11 @@
 # sv-tools
 
+<picture>
+  <source srcset="images/sv-tools.svg" media="(prefers-color-scheme: light)"/>
+  <source srcset="images/sv-tools-white.svg"  media="(prefers-color-scheme: dark)"/>
+  <img src="images/sv-tools.svg"/>
+</picture>
+
 A SystemVerilog toolchain / suite, encompassing a number of open source tools for working with SystemVerilog and UVM, meant to enable open source development of SystemVerilog/UVM codebases.
 
 ## Structure
